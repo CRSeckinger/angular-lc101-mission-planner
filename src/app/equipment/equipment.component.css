@@ -14,7 +14,7 @@ h3 {
 
 /* Add an 'active' class to style the background of the 'Add to Cargo Hold' buttons. */
 .active {
-    background: gold;
+    background: fuchsia;
 }
 
 /* Add the 'nearMaxMass' class style here: */
